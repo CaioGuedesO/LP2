@@ -21,7 +21,7 @@ public class Hello2DApp extends JPanel {
 
         g2d.setColor(Color.WHITE);
         g2d.setFont(new Font("Serif", Font.BOLD, 20));
-        g2d.drawString("Olá, Java2D Modificado!", 60, 200);
+        g2d.drawString(":) :) :) :) :) :)", 60, 200);
     }
 
     public static void main(String[] args) {
